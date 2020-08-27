@@ -1,7 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Jagadesh</h1>
 <h3 align="center">Pizza is life!</h3>
 
-<img height="400" width="500" alt="GIF" align="right" src="https://giphy.com/gifs/836HiJc7pgzy8iNXCn/html5">
+<img height="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 ### About Me
 - 👨‍I'm a Student at **IIITB**
 - 💻 I'm a developer at **Zense**
