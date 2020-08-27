@@ -1,13 +1,15 @@
 <h1 align="center">Hello World 👋, I'm Jagadesh</h1>
 <h3 align="center">Pizza is life!</h3>
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">
 ### About Me
-- 👨‍💻Developer at **Zense**
+- 👨‍I'm a Student at **IIITB**
+- 💻 I'm a developer at **Zense**
 - 🔭 I’m currently working on **PoolIIIT Mobile App**
 - 🌱 I’m currently learning **Advanced Flutter**
 - 🤝 I’m looking for help with **PoolIIIT Mobile App**
-- 💬 Ask me about **React and Flutter*
-- ⚡ Fun fact **I love pizza<3**
+- 💬 Ask me about **React and Flutter**
+- ⚡ Fun fact **I love pizza<3** &nbsp
 
 ### Languages and Tools
 <p align="left">
