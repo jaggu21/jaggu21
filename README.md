@@ -17,8 +17,6 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 
-<img align="left" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Juery" width="40" height="40"/> 
 
 <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/>
@@ -37,7 +35,10 @@
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu21&layout=compact&hide=html" alt="jaggu21" /></p>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+
+</p><p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu21&layout=compact&hide=html" alt="jaggu21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaggu21&show_icons=true" alt="jaggu21" /></p>
 
