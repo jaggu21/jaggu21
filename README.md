@@ -37,6 +37,8 @@
 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
 
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+
 </p><p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu21&layout=compact&hide=html" alt="jaggu21" /></p>
 
