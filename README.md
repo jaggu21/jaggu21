@@ -6,8 +6,8 @@
 ### About Me
 - 👨‍Student at **IIITB**
 - 💻 Developer at **Zense**
-- 🔭 Currently working on **PoolIIIT Mobile App**
-- 🌱 Currently learning **Advanced Flutter**
+- 🔭 Currently working on **Data Analysis**
+- 🌱 Currently learning **OpenGL**
 - 🤝 Looking for help with **PoolIIIT Mobile App**
 - 💬 Ask me about **React and Flutter**
 - ⚡ Fun fact **I love pizza<3** 
